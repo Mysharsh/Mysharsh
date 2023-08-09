@@ -26,6 +26,8 @@ I am a versatilist and easily adapt to different hats (App Developer 📱, Game 
 
 <br> 
 <br>
+<br>
+<br>
 <details>
 <summary>More Skills</summary>
  
