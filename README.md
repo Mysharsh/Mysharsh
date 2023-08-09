@@ -23,11 +23,10 @@ I am a versatilist and easily adapt to different hats (App Developer 📱, Game 
 <br>
 <br>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="vscode" height ="42px" src="https://raw.githubusercontent.com/Mysharsh/Mysharsh/main/Logos/text%20editors/vscode.svg"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Mongodb" height ="52px" src="https://raw.githubusercontent.com/Mysharsh/Mysharsh/main/Logos/databases/mongodb.svg"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="MYSQL" height ="52px" src="https://raw.githubusercontent.com/Mysharsh/Mysharsh/main/Logos/databases/mysql.svg"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="Mongodb" height ="52px" src="https://raw.githubusercontent.com/Mysharsh/Mysharsh/main/Logos/databases/mongodb.svg"></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MYSQL" height ="52px" src="https://raw.githubusercontent.com/Mysharsh/Mysharsh/main/Logos/databases/mysql.svg"></a>
 
 <br> 
-<br>
 <br>
 <br>
 <details>
