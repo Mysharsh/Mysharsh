@@ -20,6 +20,8 @@ I am a versatilist and easily adapt to different hats (App Developer 📱, Game 
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Mysharsh/Mysharsh/main/Logos/cloud/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://figma.com" target="_blank"><img align="left" alt="Figma" height ="36px" src="https://raw.githubusercontent.com/Mysharsh/Mysharsh/main/Logos/tools/figma.png"></a>
 <a href="https://unity.com" target="_blank"><img align="left" alt="Unity" height ="36px" src="https://raw.githubusercontent.com/Mysharsh/Mysharsh/main/Logos/tools/unity.png"></a>
+<br>
+<br>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="vscode" height ="42px" src="https://raw.githubusercontent.com/Mysharsh/Mysharsh/main/Logos/text%20editors/vscode.svg"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Mongodb" height ="52px" src="https://raw.githubusercontent.com/Mysharsh/Mysharsh/main/Logos/databases/mongodb.svg"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="MYSQL" height ="52px" src="https://raw.githubusercontent.com/Mysharsh/Mysharsh/main/Logos/databases/mysql.svg"></a>
