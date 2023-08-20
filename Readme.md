@@ -1,7 +1,7 @@
  
 # Hello, I'm Harsh Tyagi!
 
-I am a versatilist and easily adapt to different hats (App Developer 📱, Game Development or Immediate level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats (App Developer 📱, Game Development, or Immediate level Designer 🎨) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool kinds of stuff 🛠️. 
 <br/>
 <br/>
 
@@ -10,7 +10,7 @@ I am a versatilist and easily adapt to different hats (App Developer 📱, Game 
 
 - 🔭 I’m currently working on Android Project.
 - 🌱 I’m currently learning Android Development and UI/UX.
-- 💬 Ask me about any Tech stack, i am happy to help;
+- 💬 Ask me about any Tech stack, I am happy to help;
 - 📫 How to reach me: [Email](mailto:harshtyagi0012@gmail.com)
 
 ### 🔨 Languages and Tools:
