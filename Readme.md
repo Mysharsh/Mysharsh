@@ -1,7 +1,7 @@
  
 # Hello, I'm Harsh Tyagi!
 
-I am a versatilist and easily adapt to different hats (App Developer 📱, Game Development, or Immediate level Designer 🎨) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool kinds of stuff 🛠️. 
+I am a versatilist and easily adapt to different hats (App Developer 📱, Game Development, and Immediate level Designer 🎨) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool kinds of stuff 🛠️. 
 <br/>
 <br/>
 
